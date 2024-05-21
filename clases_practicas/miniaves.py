@@ -640,3 +640,54 @@ def color_legend(
 
     return ax
 
+
+#### NEW
+
+def figure_grid_from_geodataframe(
+    geodf,
+    height=5,
+    nrows=1,
+    ncols=1,
+    bbox=None,
+    remove_axes=True,
+    set_limits=True,
+    basemap=None,
+    basemap_interpolation="hanning",
+):
+    if bbox is None:
+        bbox = geodf.total_bounds
+
+    aspect = (bbox[2] - bbox[0]) / (bbox[3] - bbox[1])
+    fig, axes = plt.subplots(ncols=ncols,nrows=nrows,figsize=(ncols * height * aspect, nrows*height))
+    if isinstance(axes, mpl.axes.Axes):
+        axes = [axes]
+    
+    for ax in axes:
+        if set_limits:
+            ax.set_xlim([bbox[0], bbox[2]])
+            ax.set_ylim([bbox[1], bbox[3]])
+    
+            # code from geopandas
+            if geodf.crs and geodf.crs.is_geographic:
+                bounds = geodf.total_bounds
+                y_coord = np.mean([bounds[1], bounds[3]])
+                ax.set_aspect(1 / np.cos(y_coord * np.pi / 180))
+                # formula ported from R package sp
+                # https://github.com/edzer/sp/blob/master/R/mapasp.R
+            else:
+                ax.set_aspect("equal")
+    
+        if remove_axes:
+            ax.set_axis_off()
+    
+        if basemap is not None:
+            cx.add_basemap(
+                ax,
+                crs=geodf.crs.to_string(),
+                source=basemap,
+                interpolation=basemap_interpolation,
+                zorder=0,
+            )
+
+    return fig, axes
+
