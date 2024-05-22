@@ -11,7 +11,7 @@
 | 8      | 22/04/2024  |Revisión Certamen 1  & Presentación 2 Avance Proyecto| [Certamen 1](admin/certamen1/certamen1.pdf) | | 
 | 9      | 06/05/2024  |Heat Maps y Datos Geográficos| [Clase 07](clases_teoricas/clase06.pdf) | [Clase07.ipynb](clases_practicas/clase07.ipynb) | [![Google Colab](https://img.shields.io/badge/Google_Colab-Yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/daniopitz/visualizacion/blob/main/clases_practicas/clase07.ipynb)
 | 10      | 13/05/2024  |Mapas (Coropletas)| [Clase 08](clases_teoricas/clase06.pdf) | [Clase08_actividades.ipynb](clases_practicas/clase08_actividades.ipynb) | [![Google Colab](https://img.shields.io/badge/Google_Colab-Yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/daniopitz/visualizacion/blob/main/clases_practicas/clase08_actividades.ipynb)
-| 11      | 20/05/2024  |Mapas (Puntos y Burbujas)| [Clase 09](clases_teoricas/clase09.pdf) | [Clase08_actividades.ipynb](clases_practicas/clase08_actividades.ipynb) | [![Google Colab](https://img.shields.io/badge/Google_Colab-Yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/daniopitz/visualizacion/blob/main/clases_practicas/clase09.ipynb)
+| 11      | 20/05/2024  |Mapas (Puntos y Burbujas)| [Clase 09](clases_teoricas/clase09.pdf) | [Clase09_actividades.ipynb](clases_practicas/clase09.ipynb) | [![Google Colab](https://img.shields.io/badge/Google_Colab-Yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/daniopitz/visualizacion/blob/main/clases_practicas/clase09.ipynb)
 
 
 
