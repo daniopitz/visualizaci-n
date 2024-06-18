@@ -13,6 +13,11 @@
 | 10      | 13/05/2024  |Mapas (Coropletas)| [Clase 08](clases_teoricas/clase06.pdf) | [Clase08_actividades.ipynb](clases_practicas/clase08_actividades.ipynb) | [![Google Colab](https://img.shields.io/badge/Google_Colab-Yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/daniopitz/visualizacion/blob/main/clases_practicas/clase08_actividades.ipynb)
 | 11      | 20/05/2024  |Mapas (Puntos y Burbujas)| [Clase 09](clases_teoricas/clase09.pdf) | [Clase09.ipynb](clases_practicas/clase09.ipynb) | [![Google Colab](https://img.shields.io/badge/Google_Colab-Yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/daniopitz/visualizacion/blob/main/clases_practicas/clase09.ipynb)
 | 12      | 27/05/2024  |Visualización de Texto| [Clase 10](clases_teoricas/clase10.pdf) | [Clase10.ipynb](clases_practicas/clase10.ipynb) | [![Google Colab](https://img.shields.io/badge/Google_Colab-Yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/daniopitz/visualizacion/blob/main/clases_practicas/clase10.ipynb)
+| 13     | 03/06/2024  |Suspención de Clases|  |  | 
+| 14     | 10/06/2024  |Certamen 2| [Certamen 2](admin/certamen1/certamen2.pdf) |  | 
+| 15     | 17/06/2024  |Buenas Practicas| [Clase11](clases_teoricas/clase09.pdf) |  | 
+| 15     | 25/06/2024  |Examen| [Examen](admin/examenes/examen.pdf) |  | 
+
 
 
 
