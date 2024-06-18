@@ -15,7 +15,7 @@
 | 12      | 27/05/2024  |Visualización de Texto| [Clase 10](clases_teoricas/clase10.pdf) | [Clase10.ipynb](clases_practicas/clase10.ipynb) | [![Google Colab](https://img.shields.io/badge/Google_Colab-Yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/daniopitz/visualizacion/blob/main/clases_practicas/clase10.ipynb)
 | 13     | 03/06/2024  |Suspención de Clases|  |  | 
 | 14     | 10/06/2024  |Certamen 2| [Certamen 2](admin/certamen1/certamen2.pdf) |  | 
-| 15     | 17/06/2024  |Buenas Practicas| [Clase11](clases_teoricas/clase09.pdf) |  | 
+| 15     | 17/06/2024  |Buenas Practicas| [Clase11](clases_teoricas/clase11.pdf) |  | 
 | 15     | 25/06/2024  |Examen| [Examen](admin/examenes/examen.pdf) |  | 
 
 
