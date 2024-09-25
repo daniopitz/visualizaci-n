@@ -1,4 +1,8 @@
 # Visualización de la Información
+
+Este repositorio contiene material del curso **Visualización de la Información**, desarrollado por Daniela Opitz y Eduardo Graells-Garrido ([GitHub: zorzalerrante](https://github.com/zorzalerrante)). Gran parte del contenido está basado en el libro "Visualization Analysis and Design" de Tamar Munzner.
+
+
 | Semana | Fecha       | Temas           | Clase Teórica                                   | Notebook                                       | Google Colab |
 |--------|-------------|-----------------|-------------------------------------------------|------------------------------------------------|-------------|
 | 1      | 04/03/2024  |Introducción y Fundamentos  Ecosistema de visualización. Python para visualización  | [Clase 01](clases_teoricas/clase01.pdf) | [Clase01.ipynb](clases_practicas/clase01.ipynb) | [![Google Colab](https://img.shields.io/badge/Google_Colab-Yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/daniopitz/visualizacion/blob/main/clases_practicas/clase01.ipynb) |
