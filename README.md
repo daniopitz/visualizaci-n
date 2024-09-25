@@ -1,4 +1,4 @@
-#Visualización de la Información
+# Visualización de la Información
 | Semana | Fecha       | Temas           | Clase Teórica                                   | Notebook                                       | Google Colab |
 |--------|-------------|-----------------|-------------------------------------------------|------------------------------------------------|-------------|
 | 1      | 04/03/2024  |Introducción y Fundamentos  Ecosistema de visualización. Python para visualización  | [Clase 01](clases_teoricas/clase01.pdf) | [Clase01.ipynb](clases_practicas/clase01.ipynb) | [![Google Colab](https://img.shields.io/badge/Google_Colab-Yellow?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/daniopitz/visualizacion/blob/main/clases_practicas/clase01.ipynb) |
