@@ -1,6 +1,6 @@
 # Visualización de la Información
 
-Este repositorio contiene material del curso **Visualización de la Información**, desarrollado por Daniela Opitz y Eduardo Graells-Garrido ([GitHub: zorzalerrante](https://github.com/zorzalerrante)). Gran parte del contenido está basado en el libro "Visualization Analysis and Design" de Tamar Munzner.
+Este repositorio contiene material del curso **Visualización de la Información**, desarrollado por Daniela Opitz ([GitHub: daniopitz](https://github.com/daniopitz)) y Eduardo Graells-Garrido ([GitHub: zorzalerrante](https://github.com/zorzalerrante)). Gran parte del contenido está basado en el libro "Visualization Analysis and Design" de Tamar Munzner.
 
 
 | Semana | Fecha       | Temas           | Clase Teórica                                   | Notebook                                       | Google Colab |
