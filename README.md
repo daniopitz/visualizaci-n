@@ -24,9 +24,9 @@ Este repositorio contiene material del curso **Visualización de la Información
 
 ## Derechos de Autor y Uso
 
-Este material es propiedad de Daniela Opitz ([GitHub: zorzalerrante](https://github.com/daniopitz)) y Eduardo Graells-Garrido ([GitHub: zorzalerrante](https://github.com/zorzalerrante)). Gran parte del contenido está basado en el libro "Visualization Analysis and Design" de Tamar Munzner. No está permitido vender, distribuir, ni utilizar este material con fines productivos, de investigación o educativos sin el consentimiento previo y por escrito de los propietarios.
+No está permitido vender, distribuir, ni utilizar este material con fines productivos, de investigación o educativos sin el consentimiento previo y por escrito de los propietarios.
 
-Si deseas utilizar este material con fines educativos o de investigación, por favor, solicita autorización previa contactándonos en [daniela.opitz@unswalumni.com].
+Si deseas utilizar este material con fines educativos o de investigación, por favor, solicita autorización previa contactándome en [daniela.opitz@unswalumni.com].
 
 
 
